@@ -24,7 +24,7 @@ require (
 	github.com/docker/docker v20.10.9+incompatible // indirect
 	github.com/drone/envsubst/v2 v2.0.0-20210730161058-179042472c46 // indirect
 	github.com/evanphx/json-patch/v5 v5.5.0 // indirect
-	github.com/go-logr/logr v0.4.0
+	github.com/go-logr/logr v1.2.3
 	github.com/gofrs/flock v0.8.1
 	github.com/golang/mock v1.6.0
 	github.com/google/go-querystring v1.1.0 // indirect
